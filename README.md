@@ -1,5 +1,4 @@
 # unab_pa_tp_3
-Unab26
 ● 1. Entender y comprender ejercicios prácticos
 ● 2. Trabajar en grupos
 ● 3. Manejo de IDE (cualquiera a elección)
