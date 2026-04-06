@@ -1,6 +1,0 @@
-class Punto:
-  atributo_x= "valor1"
-  atributo_y= "valor2"
-  def_init_(self,argumento1):
-  
-
